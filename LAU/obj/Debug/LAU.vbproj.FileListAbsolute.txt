@@ -1,0 +1,9 @@
+D:\Projects\DesktopApp\LAU\LAU\bin\Debug\LAU.exe.config
+D:\Projects\DesktopApp\LAU\LAU\bin\Debug\LAU.exe
+D:\Projects\DesktopApp\LAU\LAU\bin\Debug\LAU.pdb
+D:\Projects\DesktopApp\LAU\LAU\bin\Debug\LAU.xml
+D:\Projects\DesktopApp\LAU\LAU\obj\Debug\LAU.Resources.resources
+D:\Projects\DesktopApp\LAU\LAU\obj\Debug\LAU.vbproj.GenerateResource.Cache
+D:\Projects\DesktopApp\LAU\LAU\obj\Debug\LAU.exe
+D:\Projects\DesktopApp\LAU\LAU\obj\Debug\LAU.xml
+D:\Projects\DesktopApp\LAU\LAU\obj\Debug\LAU.pdb
